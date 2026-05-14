@@ -30,4 +30,6 @@ I am ✨ **Animesh Kumar Lenka** ✨, an Data Analyst passionate about SQL, busi
 [![Kaggle](https://img.shields.io/badge/Kaggle-animeshkumar12-skyblue?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/animeshkumar12)
 [![Instagram](https://img.shields.io/badge/instagram-alphadetective-red?style=flat&logo=instagram)](https://www.instagram.com/alphadetective/)
 
-BY ANIMESH ❤️
+
+
+**By Animesh Kumar Lenka** ❤️
